@@ -1,9 +1,9 @@
+#Recipe-Page
 <!DOCTYPE html>
 <!--Jackie Vargas-->
 <!--This is not a simple web page-->
 <html> <!--root element-->
 <head> <!--head element will contain information about the document-->
-<title>Jackie Vargas ITI-2170-01</title> <!--title element stores the document's title, displayed in the browser title bar or on a browser tab-->
 </head> <!--"This is my own work"-->
 
 <body> <!-- visible page content -->
